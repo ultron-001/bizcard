@@ -1,4 +1,0 @@
-components for Info( photo name buttons)
-About
-Interests
-footer
